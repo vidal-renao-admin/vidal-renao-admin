@@ -37,9 +37,8 @@ Currently building hands-on labs with Cisco, Fortinet, Linux, and Microsoft tech
 ---
 
 ## 📫 Contact
-- 💼 [LinkedIn](https://www.linkedin.com/in/vidalrenao) 
+- 💼 <a href="https://www.linkedin.com/in/vidalrenao" target="_blank">LinkedIn</a>  
 - ✉️ **vidal-31@hotmail.com**  
 
 ---
 ⭐️ *Thanks for visiting my profile — feel free to check out my repositories!*
-

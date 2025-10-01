@@ -39,8 +39,8 @@ A complete corporate-style lab with:
 ---
 
 
-## 🖼️ Technical Topology
-## ![Lab Topology](assets/technical_topology.png)
+<!-- ## 🖼️ Technical Topology -->
+<-- ## ![Lab Topology](assets/technical_topology.png) -->
 
 
 

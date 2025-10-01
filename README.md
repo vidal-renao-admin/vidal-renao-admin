@@ -37,11 +37,12 @@ A complete corporate-style lab with:
 📊 Includes **diagrams, documentation, and implementation details** to demonstrate enterprise-level IT skills.  
 
 ---
-Add lab topology image to README
 
 
-## 🖼️ Current Lab Topology
+## 🖼️ Technical Topology
 ## ![Lab Topology](assets/technical_topology.png)
+
+
 
 ## 🖼️ Current Lab Topology
 ![Lab Topology](assets/lab_topology.png)

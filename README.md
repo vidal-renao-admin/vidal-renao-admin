@@ -38,10 +38,12 @@ A complete corporate-style lab with:
 
 ---
 
-## 🖼️ Current Lab Topology
-![Lab Topology](assets/lab_topology.png)
+
 ## 🖼️ Current Lab Topology
 ![Lab Topology](assets/technical_topology.png)
+
+## 🖼️ Current Lab Topology
+![Lab Topology](assets/lab_topology.png)
 
 ---
 
